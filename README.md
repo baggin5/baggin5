@@ -6,7 +6,7 @@
 
 ## Quick about:
 - 🔭 Digging some data by working on pet-projects (going to add)
-- 📖 Learning 🇹🇩Romanian language
+- 🇷🇺Russian - native, 🇬🇧English - B2(fluently), now earning 🇹🇩Romanian language
 - Originally 🇷🇺Russian, now based in 🇦🇪UAE
 - ⚡ Fun fact: was about to reach PhD in Technosphere Safety.
 
